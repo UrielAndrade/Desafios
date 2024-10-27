@@ -1,0 +1,28 @@
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\bin\Debug\net8.0\CNPJ denove.exe
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\bin\Debug\net8.0\CNPJ denove.deps.json
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\bin\Debug\net8.0\CNPJ denove.runtimeconfig.json
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\bin\Debug\net8.0\CNPJ denove.dll
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\bin\Debug\net8.0\CNPJ denove.pdb
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\CNPJ denove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\CNPJ denove.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\CNPJ denove.AssemblyInfo.cs
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\CNPJ denove.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\CNPJ denove.dll
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\refint\CNPJ denove.dll
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\CNPJ denove.pdb
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\CNPJ denove.genruntimeconfig.cache
+C:\Users\andra\source\repos\CNPJ denove\CNPJ denove\obj\Debug\net8.0\ref\CNPJ denove.dll
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\bin\Debug\net8.0\CNPJ denove.exe
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\bin\Debug\net8.0\CNPJ denove.deps.json
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\bin\Debug\net8.0\CNPJ denove.runtimeconfig.json
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\bin\Debug\net8.0\CNPJ denove.dll
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\bin\Debug\net8.0\CNPJ denove.pdb
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\CNPJ denove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\CNPJ denove.AssemblyInfoInputs.cache
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\CNPJ denove.AssemblyInfo.cs
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\CNPJ denove.csproj.CoreCompileInputs.cache
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\CNPJ denove.dll
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\refint\CNPJ denove.dll
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\CNPJ denove.pdb
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\CNPJ denove.genruntimeconfig.cache
+C:\Users\andra\OneDrive\Área de Trabalho\Desafios-Propostos\CNPJ denove\obj\Debug\net8.0\ref\CNPJ denove.dll
